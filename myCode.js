@@ -1,4 +1,4 @@
-// write your code here
+//steganography
 var image1=new SimpleImage("skyline.jpg");
 var image2=new SimpleImage("usain.jpg");
 function forimage1(image)
